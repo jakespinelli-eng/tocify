@@ -5,6 +5,7 @@ import hashlib
 from datetime import datetime, timezone, timedelta
 
 import feedparser
+import httpx
 from dateutil import parser as dtparser
 from openai import OpenAI
 
@@ -132,7 +133,8 @@ def fetch_rss_items(feed_urls: list[str]) -> list[dict]:
     return items[:MAX_TOTAL_ITEMS]
 
 def call_openai_triage(interests: dict, items: list[dict]) -> dict:
-    client = OpenAI()
+    http_client = httpx.Client(timeout=60.0, http2=False)
+    client = OpenAI(http_client=http_client)
 
     schema = {
         "name": "weekly_toc_digest",
