@@ -2,7 +2,34 @@
 Nature | http://www.nature.com/nature/current_issue/rss
 Scientific Reports | https://www.nature.com/srep.rss
 Science | https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
-Science Advances | https://www.science.org/content/page/email-alerts-and-rss-feeds#:~:text=Advances%C2%A0Feed
-PNAS | http://www.pnas.org/rss/Neuroscience.xml
-PNAS | http://www.pnas.org/rss/Psychological_and_Cognitive_Sciences.xml
+Science Advances | https://www.science.org/content/page/email-alerts-and-rss-feeds
+PNAS (Physical Sciences) | http://www.pnas.org/rss/Physical_Sciences.xml
+
+# plasma physics
+Physics of Plasmas | https://pubs.aip.org/rss/content/journal/php
+Plasma Physics and Controlled Fusion | https://iopscience.iop.org/journal/0741-3335/rss
+Plasma Sources Science and Technology | https://iopscience.iop.org/journal/0963-0252/rss
+New Journal of Physics | https://iopscience.iop.org/journal/1367-2630/rss
+IEEE Transactions on Plasma Science | https://ieeexplore.ieee.org/rss/TOC41.XML
+
+# electric propulsion and space propulsion
+Journal of Electric Propulsion | https://link.springer.com/search.rss?facet-journal-id=44205
+Journal of Propulsion and Power (AIAA) | https://arc.aiaa.org/action/showFeed?type=etoc&feed=rss&jc=jpp
+Journal of Spacecraft and Rockets (AIAA) | https://arc.aiaa.org/action/showFeed?type=etoc&feed=rss&jc=jsr
+Acta Astronautica | https://www.sciencedirect.com/journal/acta-astronautica/rss
+
+# applied physics and materials
+Journal of Physics D: Applied Physics | https://iopscience.iop.org/journal/0022-3727/rss
+Applied Physics Letters | https://pubs.aip.org/rss/content/journal/apl
+ACS Applied Materials & Interfaces | https://pubs.acs.org/action/showFeed?type=etoc&feed=rss&jc=amide5
+Carbon | https://www.sciencedirect.com/journal/carbon/rss
+Nanoscale | https://pubs.rsc.org/en/journals/journalissues/nr#issues
+
+# spacecraft and aerospace sciences
+Advances in Space Research | https://www.sciencedirect.com/journal/advances-in-space-research/rss
+Progress in Aerospace Sciences | https://www.sciencedirect.com/journal/progress-in-aerospace-sciences/rss
+
+# preprints (highly recommended for plasma propulsion and allied research)
+arXiv – Plasma Physics | http://export.arxiv.org/rss/plasm-ph
+arXiv – Space Physics | http://export.arxiv.org/rss/physics.space-ph
 
