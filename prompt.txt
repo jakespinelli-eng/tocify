@@ -26,50 +26,10 @@ Output rules:
 - Do NOT hallucinate details
 
 USER KEYWORDS:
-Air Breathing Electric Propulsion Air-Breathing Electric Propulsion Atmosphere Breathing Atmosphere-Breathing Electric Propulsion Plasma Propulsion Plasma Thruster Plasma Thruster ABEP ABPT EP Very Low Earth Orbit Very Low-Earth Orbit VLEO Vacuum Arc Vacuum Arc Thruster Vacuum Arc Plasma Thruster Arc Discharge Vacuum Arc Discharge Pulsed Plasma Thruster Hybrid Plasma Thruster E×B Discharge Thrust-to-Power Ratio TPR Ionization Efficiency Mass Utilization Efficiency Plasma Density Electron Temperature Plasma–Surface Interaction Electrode Erosion Cathode Spot Rarefied Flow Free-Molecular Flow Atmospheric Drag Drag Compensation Residual Atmosphere High-Vacuum Testing Hypersonic Flow Simulator Thrust Stand Langmuir Probe Optical Emission Spectroscopy OES High-Speed Imaging Cathode Material Titanium Cathode Plasma-Facing Materials Performance Scaling Power Scaling Lifetime Modeling Continuous Operation Compact Thruster Design Small Satellite Propulsion CubeSat Propulsion
+{{KEYWORDS}}
 
 USER INTERESTS:
-My research focuses on the design, modeling, and experimental characterization of air-breathing plasma propulsion systems for very low Earth orbit (VLEO) applications. I use computational, experimental, and data-driven approaches to study plasma generation, ionization efficiency, thrust production, and thrust-to-power optimization under rarefied atmospheric conditions. My work integrates plasma physics, electromagnetics, gas dynamics, and propulsion systems engineering to enable sustained satellite operation at altitudes below conventional drag limits.
+{{NARRATIVE}}
 
-A central theme of my research is understanding and improving the fundamental plasma processes that govern thrust generation in air-breathing electric propulsion devices. I investigate discharge physics, plasma–surface interactions, and energy coupling mechanisms in vacuum arc, pulsed plasma, and hybrid discharge thrusters. By developing and applying advanced diagnostic methods and scalable analysis tools, my work seeks to disentangle the relative roles of ionization efficiency, mass utilization, and electromagnetic acceleration in determining overall system performance.
-
-I work extensively with heterogeneous experimental datasets, including electrical diagnostics, thrust measurements, high-speed imaging, and pressure-controlled flow environments, emphasizing reproducible experimental design and rigorous data analysis. My research includes the design and fabrication of thruster hardware, development of high-vacuum and hypersonic airflow simulators, and quantitative evaluation of thrust-to-power ratio, erosion behavior, and operational lifetime. These efforts aim to directly link plasma behavior and discharge dynamics to measurable propulsion performance.
-
-More broadly, my work examines how plasma dynamics and electromagnetic field configurations enable efficient momentum transfer in low-density environments. Using experimental testing, numerical modeling, and cross-comparison of air-breathing propulsion architectures, I study how these mechanisms scale with altitude, power, and propellant availability. I am particularly interested in methodological and theoretical advances that improve interpretation of plasma diagnostics, enable performance scaling laws, and support the development of compact, long-lived propulsion systems for next-generation Earth-observation missions.
-
-I prioritize research that introduces new propulsion concepts, diagnostic methodologies, or performance insights relevant to air-breathing electric propulsion, plasma thrusters, and VLEO mission architectures. I am generally not interested in purely mission-level simulations or non-experimental studies unless they directly inform thruster physics, performance scaling, or hardware design decisions. Some of my paper titles include: Analysis of ionization in air-breathing plasma thruster Air ionization in self-neutralizing air-breathing plasma thruster Characterization of a circular arc electron source for a self-neutralizing air-breathing plasma thruster Self-neutralizing air breathing plasma thruster for very low earth orbits Side feeding mechanism for micro cathode arc thruster Self-Neutralization and Performance Characteristics of a Hypersonic Air-Breathing Plasma Thruster Characterization of Side Feeding Mechanism for Micro Cathode Arc Thruster Towards High-Thrust to Power Hypersonic Air-Breathing Electric Propulsion Toward Building Sustainable Mars Infrastructure: A CO2‐Breathing Plasma Thruster for Orbit Maintenance and In Situ Oxygen Generation Self-neutralization in air-breathing electric thruster Toward achieving longevity of micro cathode thrusters
 RSS ITEMS:
-# general journals
-Nature | http://www.nature.com/nature/current_issue/rss
-Scientific Reports | https://www.nature.com/srep.rss
-Science | https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
-Science Advances | https://www.science.org/content/page/email-alerts-and-rss-feeds
-PNAS (Physical Sciences) | http://www.pnas.org/rss/Physical_Sciences.xml
-
-# plasma physics
-Physics of Plasmas | https://pubs.aip.org/rss/content/journal/php
-Plasma Physics and Controlled Fusion | https://iopscience.iop.org/journal/0741-3335/rss
-Plasma Sources Science and Technology | https://iopscience.iop.org/journal/0963-0252/rss
-New Journal of Physics | https://iopscience.iop.org/journal/1367-2630/rss
-IEEE Transactions on Plasma Science | https://ieeexplore.ieee.org/rss/topic/7084/toc
-
-# electric propulsion and space propulsion
-Journal of Electric Propulsion | https://link.springer.com/journal/44205
-Journal of Propulsion and Power (AIAA) | https://arc.aiaa.org/action/showFeed?type=etoc&feed=rss&jc=jpp
-Journal of Spacecraft and Rockets (AIAA) | https://arc.aiaa.org/action/showFeed?type=etoc&feed=rss&jc=jsr
-Acta Astronautica | https://www.sciencedirect.com/journal/acta-astronautica/rss
-
-# applied physics and materials
-Journal of Physics D: Applied Physics | https://iopscience.iop.org/journal/0022-3727/rss
-Applied Physics Letters | https://pubs.aip.org/rss/content/journal/apl
-ACS Applied Materials & Interfaces | https://pubs.acs.org/action/showFeed?type=etoc&feed=rss&jc=aamick
-Carbon | https://www.sciencedirect.com/journal/carbon/rss
-Nature Nanotechnology | https://www.nature.com/nnatoms.rss
-
-# spacecraft and aerospace sciences
-Advances in Space Research | https://www.sciencedirect.com/journal/advances-in-space-research/rss
-Progress in Aerospace Sciences | https://www.sciencedirect.com/journal/progress-in-aerospace-sciences/rss
-
-# preprints (highly recommended for plasma propulsion and allied research)
-arXiv – Plasma Physics | http://export.arxiv.org/rss/plasm-ph
-arXiv – Space Physics | http://export.arxiv.org/rss/physics.space-ph
+{{ITEMS}}
