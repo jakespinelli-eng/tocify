@@ -18,14 +18,59 @@ If it is primarily microbiology/immunology/metabolism/genetics without neural dy
 
 ## keywords
 Air Breathing Electric Propulsion
-ABPT
-Electric Propulsion
+Air-Breathing Electric Propulsion
 Atmosphere Breathing
-Very Low Earth ORbit
-VLEO
-Thruster
-Vacuum Arc
+Atmosphere-Breathing
+Electric Propulsion
+Plasma Propulsion
 Plasma
+Thruster
+Plasma Thruster
+ABEP
+ABPT
+EP
+Very Low Earth Orbit
+Very Low-Earth Orbit
+VLEO
+Vacuum Arc
+Vacuum Arc Thruster
+Vacuum Arc Plasma Thruster
+Arc Discharge
+Vacuum Arc Discharge
+Pulsed Plasma Thruster
+Hybrid Plasma Thruster
+E×B Discharge
+Thrust-to-Power Ratio
+TPR
+Ionization Efficiency
+Mass Utilization Efficiency
+Plasma Density
+Electron Temperature
+Plasma–Surface Interaction
+Electrode Erosion
+Cathode Spot
+Rarefied Flow
+Free-Molecular Flow
+Atmospheric Drag
+Drag Compensation
+Residual Atmosphere
+High-Vacuum Testing
+Hypersonic Flow Simulator
+Thrust Stand
+Langmuir Probe
+Optical Emission Spectroscopy
+OES
+High-Speed Imaging
+Cathode Material
+Titanium Cathode
+Plasma-Facing Materials
+Performance Scaling
+Power Scaling
+Lifetime Modeling
+Continuous Operation
+Compact Thruster Design
+Small Satellite Propulsion
+CubeSat Propulsion
 
 ## narrative
 My research focuses on the design, modeling, and experimental characterization of air-breathing plasma propulsion systems for very low Earth orbit (VLEO) applications. I use computational, experimental, and data-driven approaches to study plasma generation, ionization efficiency, thrust production, and thrust-to-power optimization under rarefied atmospheric conditions. My work integrates plasma physics, electromagnetics, gas dynamics, and propulsion systems engineering to enable sustained satellite operation at altitudes below conventional drag limits.
