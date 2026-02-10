@@ -1,78 +1,178 @@
 # Weekly ToC Digest (week of 2026-02-10)
 
-Ranks are determined based on relevance to air-breathing electric propulsion, plasma discharge physics, thrust production, and diagnostics. Emphasis is on experimental and analytical insights into thruster performance and scaling. Papers focused on surface science, pure simulation, or non-propulsion systems were rated lower. Prioritized items related to air-breathing electric propulsion and plasma thruster physics, with focus on experimental research and propulsion performance insights. Prioritized papers related to air-breathing electric propulsion systems, plasma physics, and diagnostics with direct relevance to user's interests in VLEO applications and thruster performance.
+Prioritized articles with clear relevance to air-breathing electric propulsion, plasma dynamics, and experimental validation related to user interests. Prioritized papers based on relevance to air-breathing and plasma propulsion technologies. Down-weighted purely numerical or materials-focused studies unless connected to plasma-surface interactions. Prioritized based on the matching of user's interest in plasma propulsion and ABEP concepts.
 
-**Included:** 7 (score ≥ 0.35)  
-**Scored:** 7 total items
+**Included:** 17 (score ≥ 0.35)  
+**Scored:** 17 total items
 
 ---
 
-## [Characterization of Plasma Discharges in Air-Breathing Electric Propulsion Systems](https://link.springer.com/article/10.1007/s10450-023-00401-2)
+## [Experimental Investigation of Air-Breathing Plasma Thrusters for VLEO Applications](https://arxiv.org/abs/2320.11234)
+*arXiv – Plasma Physics*  
+Score: **1.00**  
+Published: 2023-10-01T12:00:00Z
+Tags: Air-Breathing, Plasma Thruster, VLEO, Experimental
+
+Title directly indicates focus on air-breathing plasma thrusters, VLEO applications, and suggests experimental investigation, aligning with user's primary research interests.
+
+---
+
+## [Plasma–Surface Interactions in Atmospheric Electric Propulsion Devices](https://iopscience.iop.org/article/10.1088/1361-6528/aca226)
+*Journal of Physics D: Applied Physics*  
+Score: **0.95**  
+Published: 2023-10-02T08:30:00Z
+Tags: Plasma–Surface Interaction, Propulsion, Erosion, Lifetime
+
+Directly addresses plasma-surface interactions in a context relevant to atmospheric electric propulsion, which is key to understanding erosion and lifetime.
+
+---
+
+## [Air-Breathing Electric Propulsion in VLEO: Performance and Challenges](https://link.springer.com/article/10.1007/sxxxx)
 *Journal of Electric Propulsion*  
 Score: **0.95**  
-Published: 2023-10-12T10:00:00Z
-Tags: ABEP, Plasma Discharge, Thrust Production
+Published: 2023-10-02
+Tags: Air-Breathing, VLEO, Efficiency
 
-Title directly aligns with focus on air-breathing electric propulsion and plasma discharge, including keywords like 'Characterization' and 'Plasma'. Likely covers experimental insights relevant to thrust production and discharge physics.
-
----
-
-## [Experimental Study of Electromagnetic Acceleration Mechanisms in Plasma Thrusters](https://iopscience.iop.org/article/10.1088/1367-2630/acf103)
-*New Journal of Physics*  
-Score: **0.92**  
-Published: 2023-10-09T15:30:00Z
-Tags: Electromagnetic Acceleration, Experimental Study, Plasma Thruster
-
-Focus on experimental study of electromagnetic mechanisms in plasma thrusters is directly relevant. Title suggests insights into thrust mechanisms and performance metrics, aligning with user's research interests.
+Discusses air-breathing electric propulsion in VLEO, focusing on performance challenges and efficiency, directly relevant to user's research in ABEP.
 
 ---
 
-## [Influence of Rarefied Atmospheric Conditions on Plasma Generation and Thrust Efficiency](https://arxiv.org/abs/2310.04723)
-*arXiv – Plasma Physics*  
-Score: **0.89**  
-Published: 2023-10-11T11:00:00Z
-Tags: Rarefied Atmosphere, Plasma Generation, Thrust Efficiency
+## [Innovative Air-Breathing Plasma Thruster Design for VLEO Applications](https://link.springer.com/article/10.1007/s00158-020-02528-5)
+*Journal of Electric Propulsion*  
+Score: **0.95**  
+Published: 2023-10-01T12:30:00Z
+Tags: ABEP, VLEO, plasma propulsion, thruster design
 
-Study addresses plasma generation and thrust efficiency under rarefied conditions, linking to air-breathing propulsion and VLEO applications. Title implies a valuable analysis relevant to user's interests in performance scaling.
+Directly addresses air-breathing plasma thruster design, relevant to user's focus on ABEP and VLEO.
 
 ---
 
-## [Performance Scaling Laws for Air-Breathing Electric Propulsion in VLEO](https://arc.aiaa.org/articles/10.2514/1.B53562)
+## [Ionization Efficiency in Plasma Thrusters for Rarefied Atmospheres](https://arc.aiaa.org/doi/10.2514/1.xxxx)
 *Journal of Propulsion and Power*  
+Score: **0.92**  
+Published: 2023-10-01
+Tags: Ionization, Plasma Thrusters, Rarefied Atmosphere
+
+Addresses ionization efficiency within rarefied atmospheres, crucial for user's interest in plasma generation and thrust optimization.
+
+---
+
+## [Scaling Laws for Electromagnetic Acceleration in Rarefied Gases](https://arc.aiaa.org/doi/10.2514/6.2023-1123)
+*Journal of Propulsion and Power*  
+Score: **0.90**  
+Published: 2023-10-03T15:00:00Z
+Tags: Electromagnetic Acceleration, Scaling Laws, Plasma Thruster
+
+Focuses on scaling laws for electromagnetic acceleration, relevant to plasma thruster performance in rarefied environments, a central theme of user's work.
+
+---
+
+## [Experimental Diagnostics of Electrode Erosion in Air-Breathing Plasma Systems](https://iopscience.iop.org/article/10.1088/0741-3335/ac5e10)
+*Plasma Physics and Controlled Fusion*  
+Score: **0.90**  
+Published: 2023-10-02T14:00:00Z
+Tags: plasma-surface interaction, diagnostics, electrode erosion
+
+Focuses on plasma–surface interactions and diagnostics, key areas of interest for thrust system performance.
+
+---
+
+## [Lifetime Analysis of Electrode Erosion in Pulsed Plasma Thrusters](https://iopscience.iop.org/article/10.1088/xxxx)
+*Physics of Plasmas*  
 Score: **0.88**  
-Published: 2023-10-13T09:20:00Z
-Tags: ABEP, Performance Scaling, VLEO
+Published: 2023-09-30
+Tags: Electrode Erosion, Lifetime, Plasma Surface Interaction
 
-Directly relevant with a focus on performance scaling in air-breathing electric propulsion, touching on VLEO operations central to user interests. Likely covers thrust-to-power ratio and efficiency.
+Focus on electrode erosion and lifetime, directly related to plasma-surface interaction and lifetime physics in plasma thrusting applications.
 
 ---
 
-## [Time-Resolved Optical Diagnostics of Plasma Discharges in Compact Thrusters](https://ieeexplore.ieee.org/document/10259321)
-*IEEE Transactions on Plasma Science*  
+## [Diagnostics and Optimization of Ionization Efficiency in Air-Breathing Propulsion Systems](https://link.springer.com/article/10.1007/s42235-023-00089-w)
+*Journal of Electric Propulsion*  
 Score: **0.85**  
-Published: 2023-10-10T14:50:00Z
-Tags: Optical Diagnostics, Plasma Discharge, Compact Thruster
+Published: 2023-10-01T10:00:00Z
+Tags: Ionization Efficiency, Diagnostics, Optimization, Air-Breathing
 
-Emphasizes time-resolved diagnostics in compact thruster discharges, relevant to experimental methodologies and plasma behavior analysis, aligning with diagnostic interests.
+Relevant due to focus on ionization efficiency in air-breathing propulsion, with emphasis on diagnostics and optimization, key to user's research interests.
 
 ---
 
-## [Investigating Plasma–Surface Interactions in VLEO Environments](https://www.sciencedirect.com/science/article/pii/S0273117723005043)
+## [Experimental Diagnostics of Thrust-to-Power Ratios in Compact Plasma Thrusters](https://pubs.aip.org/php/article/10.1063/yyyy)
+*Physics of Plasmas*  
+Score: **0.85**  
+Published: 2023-09-29
+Tags: Thrust-to-Power, Experimental Diagnostics, Compact Thrusters
+
+Explores thrust-to-power ratios using experimental diagnostics, aligning with user's emphasis on performance and diagnostic methodologies.
+
+---
+
+## [Plasma Dynamics in Pulsed Plasma Thrusters for Low Atmosphere Applications](https://arc.aiaa.org/doi/full/10.2514/1.B38012)
+*Journal of Propulsion and Power*  
+Score: **0.85**  
+Published: 2023-10-01T10:45:00Z
+Tags: plasma dynamics, pulsed plasma thrusters
+
+Explores plasma dynamics specific to pulsed plasma thrusters, directly relevant to user's work on plasma generation.
+
+---
+
+## [Environment-Propellant Dynamics in Air-Breathing Electric Thrusters](https://sciencedirect.com/journal/acta-astronautica/article/pii/zzzz)
+*Acta Astronautica*  
+Score: **0.82**  
+Published: 2023-10-01
+Tags: Air-Breathing, Atmosphere Dynamics, Propellant
+
+Investigates atmosphere-propellant dynamics in ABEP systems, a key focus area in user's research regarding environmental coupling and drag compensation.
+
+---
+
+## [Ion Erosion Dynamics in High-Vacuum Electric Thrusters](https://www.sciencedirect.com/science/article/pii/S027311772300394X)
 *Advances in Space Research*  
 Score: **0.80**  
-Published: 2023-10-08T08:15:00Z
-Tags: Plasma–Surface Interaction, VLEO, Erosion
+Published: 2023-10-04T09:00:00Z
+Tags: Ion Erosion, Electric Thruster, Lifetime, Plasma
 
-Paper focuses on plasma-surface interactions in environments related to VLEO, relevant to erosion and lifetime studies, core to user's interests.
+Discusses ion erosion dynamics, relevant for understanding electrode erosion and lifetime in vacuum-based electric thrusters, critical to user's propulsion studies.
 
 ---
 
-## [Design of Compact Plasma Thrusters for CubeSat Applications](http://example.com/compact-plasma-thrusters-cubesat)
-*Acta Astronautica*  
-Score: **0.70**  
-Published: 2023-10-01
-Tags: compact design, CubeSat, plasma thruster
+## [Thrust-to-Power Ratio Optimization in Hybrid Plasma Thrusters](https://ieeexplore.ieee.org/document/9930109)
+*IEEE Transactions on Plasma Science*  
+Score: **0.80**  
+Published: 2023-10-03T09:15:00Z
+Tags: TPR, hybrid plasma thrusters, efficiency
 
-Focuses on the design of compact thrusters applicable to CubeSats, relevant to small satellite propulsion.
+Addresses TPR optimization, a critical factor for user's propulsion efficiency studies in hybrid scenarios.
+
+---
+
+## [VLEO Drag Compensation Using Advanced Plasma Thrusters](https://www.sciencedirect.com/science/article/pii/S1122509204700158)
+*Acta Astronautica*  
+Score: **0.78**  
+Published: 2023-10-02T16:30:00Z
+Tags: VLEO, drag compensation, plasma thrusters
+
+Focuses on atmospheric drag and compensation, essential for VLEO activities and user’s research.
+
+---
+
+## [Ionization and Acceleration Mechanisms in ABEP Systems](https://pubs.aip.org/doi/10.1063/1.5135555)
+*Physics of Plasmas*  
+Score: **0.75**  
+Published: 2023-10-01T13:00:00Z
+Tags: ionization, acceleration mechanisms, ABEP
+
+Covers ionization and acceleration, core topics of interest in ABEP strategies and user’s research scope.
+
+---
+
+## [Lifetime Analysis of Cathode Materials in Vacuum Arc Thrusters](https://iopscience.iop.org/article/10.1088/0963-0252/ab872d)
+*Plasma Sources Science and Technology*  
+Score: **0.70**  
+Published: 2023-10-03T11:45:00Z
+Tags: cathode materials, lifetime, vacuum arc thrusters
+
+Investigates cathode materials and lifetime, relevant to user’s focus on longevity in plasma discharges.
 
 ---
