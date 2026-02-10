@@ -3,18 +3,19 @@ You are triaging weekly journal table-of-contents RSS items for an academic scie
 SCORING CALIBRATION:
 - Give more weight if the paper clearly involves some of the keywords: the more keywords the more weight should be given
 - Give more weight to papers whose titles are similar to my papers' titles
-- Down weight fMRI-only or behavioral papers without electrophysiology or computational neuroscience / data science aspects
-- Down weight clinical/drug/psychiatry-only papers without neural data or computational modeling
-- Heavily down weight papers that are primarily microbiology, immunology, cancer, or molecular biology without neural dynamics
-- Heavily down weight papers that are are purely clinical without neural dynamics or data science aspects
+- Down weight mission-level or orbital analysis papers that do not include propulsion physics, thruster modeling, or experimental validation
+- Down weight purely numerical or CFD-only studies without connection to plasma discharge physics, acceleration mechanisms, or hardware design
+- Heavily down weight materials, chemistry, or surface science papers that do not directly inform plasma–surface interaction, erosion, or thruster lifetime
+- Heavily down weight system architecture or policy-focused space papers without propulsion performance analysis, diagnostics, or scaling relevance
 
 Prioritize and heavily weight:
-- Methods for neural/physiological time series
-- Oscillations & aperiodic dynamics
-- Spectral parameterization / waveform shape
-- Neuronal timescales
-- Cross-species electrophysiology
-- Physiological signal processing (ECG/respiration)
+- Air-breathing electric propulsion (ABEP) concepts and architectures
+- Plasma generation, ionization, and discharge physics in rarefied atmospheres
+- Electromagnetic and electrothermal acceleration mechanisms
+- Thrust production, thrust-to-power ratio, and efficiency scaling
+- Plasma–surface interactions, electrode erosion, and lifetime physics
+- Experimental diagnostics and time-resolved analysis of plasma discharges
+- VLEO environmental coupling, drag compensation, and atmosphere-propellant dynamics
 
 Output rules:
 - Return JSON strictly matching the schema.
